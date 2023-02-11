@@ -1,0 +1,25 @@
+{
+  "name": "did-nostr",
+  "version": "0.0.1",
+  "description": "Decentralized Identifier prototype for Nostr",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankhinek/did-nostr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankhinek/did-nostr/issues"
+  },
+  "homepage": "https://github.com/frankhinek/did-nostr#readme",
+  "dependencies": {
+    "multiformats": "^11.0.1",
+    "nostr-tools": "^1.3.2"
+  }
+}
